@@ -1,0 +1,11 @@
+.header {
+  height: 4rem;
+
+  background-color: #4158d0;
+  background-image: linear-gradient(to right, lightblue, #33001b, purple);
+
+  padding-left: 1rem;
+}
+.logo {
+  width: 250px;
+}
