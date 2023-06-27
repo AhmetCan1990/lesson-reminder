@@ -6,10 +6,10 @@ export default function LessonCard({ data }) {
     <div className="lessonContainer">
       <img src={src} alt="Lesson Image" className="lessonimg" />
       <p>
-        Lesson Name: <sapan className="lessonVar">{lessonName}</sapan>
+        Lesson Name: <span className="lessonVar">{lessonName}</span>
       </p>
       <p>
-        Lesson Hour: <sapan className="lessonVar">{lessonHour}</sapan>
+        Lesson Hour: <span className="lessonVar">{lessonHour}</span>
       </p>
     </div>
   );
